@@ -10,7 +10,7 @@ print("el tercer elemento de mi lista> ",mi_lista[2])
 
 #Diccionarios
 mi_diccionario = {
-    "mi_lista ":mi_lista,
+    "mi_lista": mi_lista,
     "nombre": "Citlali",
     "pi": 3.1416,
     "tel": "664-241-2901"
